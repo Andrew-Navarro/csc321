@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-      public class menu {
+      public class AndrewNavarro {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
